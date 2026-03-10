@@ -1,8 +1,24 @@
-# BE477Project
-Repository for BE477 Project, Spring 2026
+# Yeast Protein Localization Classification
 
-The primary dataste for this project is yeast.csv from https://www.kaggle.com/datasets/samanemami/yeastcsv
+A machine learning project that predicts the cellular localization site of 
+yeast proteins using a random forest classifier.
 
-The back-up dataset for this project is Dry_beans.csv from https://www.kaggle.com/datasets/sansuthi/dry-bean-dataset/code .
+## Dataset
+- **Primary:** [Yeast Dataset](https://www.kaggle.com/datasets/samanemami/yeastcsv) — 
+protein localization data with 8 numerical features and 10 target classes
+- **Alternate (for similar analysis):** [Dry Bean Dataset](https://www.kaggle.com/datasets/sansuthi/dry-bean-dataset/code)
 
-The purpose of the project is to practice making predictions using machine learning. main.ipynb loads yeast.csv, checks the dataset for misisng values, and creates a random forest model.
+## Overview
+`main.ipynb` covers the full pipeline:
+1. Data loading and exploration
+2. Missing value detection and handling
+3. Random forest model training and evaluation
+
+## Requirements
+- Python 3.x
+- pandas
+- scikit-learn
+- Jupyter Notebook
+
+## Status
+In progress as of March 2026, estimated completion in April.
