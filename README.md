@@ -1,7 +1,7 @@
-# Yeast Protein Localization Classification
+# Protein Localization Classification
 
 A machine learning project that predicts the cellular localization site of 
-yeast proteins using a random forest classifier.
+yeast proteins using a random forest classifier using a dataset from Kaggle.
 
 ## Dataset
 - **Primary:** [Yeast Dataset](https://www.kaggle.com/datasets/samanemami/yeastcsv) — 
