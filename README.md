@@ -9,22 +9,9 @@ models to identify the best approach for this multiclass problem.
 protein localization data with 8 numerical features and 10 target classes
 - **Backup:** [Dry Bean Dataset](https://www.kaggle.com/datasets/sansuthi/dry-bean-dataset/code)
 
-## Overview
-`main.ipynb` covers the full pipeline:
-1. Data loading and exploration
-2. Missing value detection and handling
-3. Model training and evaluation across multiple classifiers
-4. Model comparison and performance analysis
+## Link to Paper (Google Doc viewable from @hawaii.edu accounts)
+https://docs.google.com/document/d/10bkPD2bcxcCL6BzmmWDzfBnlbyNMK-hagFuKrarLgi8/edit?usp=sharing
 
-## Models
-- Random Forest ✅
-- Additional classifiers in progress
+## Presentation PDF
+Will be uploaded and linked here.
 
-## Requirements
-- Python 3.x
-- pandas
-- scikit-learn
-- Jupyter Notebook
-
-## Status
-🚧 In progress — expected completion April 2026
