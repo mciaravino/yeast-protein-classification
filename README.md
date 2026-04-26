@@ -9,9 +9,8 @@ models to identify the best approach for this multiclass problem.
 protein localization data with 8 numerical features and 10 target classes
 - **Backup:** [Dry Bean Dataset](https://www.kaggle.com/datasets/sansuthi/dry-bean-dataset/code)
 
-## Link to Paper (Google Doc viewable from @hawaii.edu accounts)
-https://docs.google.com/document/d/10bkPD2bcxcCL6BzmmWDzfBnlbyNMK-hagFuKrarLgi8/edit?usp=sharing
+## Link to Paper (Overleaf)
+https://www.overleaf.com/read/jyytntbsjbzb#70044e
 
-## Presentation PDF
-Will be uploaded and linked here.
-
+## Link to Presentation (Overleaf)
+TBD
